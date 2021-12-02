@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. https://www.youtube.com/watch?v=OjQP7rPwJyE
 2. -bron 2-
 3. -...-
 
@@ -66,14 +66,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
-## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
+Intake (week 1)
 
-**Je startniveau:** -blauw-
+**Je startniveau:** blauw
 
-**Je focus:** -surface plane-
+**Je focus:** surface plane
 
-**Je opdracht:** -https://www.reisjunk.nl/-
+**Je opdracht:** https://www.reisjunk.nl/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
